@@ -6,8 +6,6 @@
                        
     ♾️ Developer Forever 💟
 
- ## 🎃 I am a Young Hacker 🖥️ 💣
-
 <h1> Towards Seniority 💪🏆</h1>
 
 ## 🚀🚀 My Technologies:
