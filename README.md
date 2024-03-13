@@ -46,6 +46,8 @@
 <br clear="both">
 <div aling="center">
   <img src="https://raw.githubusercontent.com/GabrielR4SH/GabrielR4SH/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/GabrielR4SH/GabrielR4SH/raw/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
