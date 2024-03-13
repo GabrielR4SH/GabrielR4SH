@@ -45,7 +45,8 @@
 ###
 <br clear="both">
 <div aling="center">
-  ![Snake animation](https://github.com/GabrielR4SH/GabrielR4SH/raw/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/GabrielR4SH/GabrielR4SH/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </div>
 
 ### Sobre Mim:
