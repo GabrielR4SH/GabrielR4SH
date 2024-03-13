@@ -10,12 +10,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielR4SH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" height="140" src="https://art.pixilart.com/12bb2e27583b00c.gif"  />
 
 <div align="center">
   <h1>Minhas Especialidades:</h1>
 </div>
 
+<img align="right" height="140" src="https://art.pixilart.com/12bb2e27583b00c.gif"  />
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
