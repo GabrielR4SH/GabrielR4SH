@@ -33,22 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-santana-b46570186/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-<br clear="both">
-
-![Snake animation](https://github.com/GabrielR4SH/GabrielR4SH/raw/output/github-contribution-grid-snake.gif)
-
-
-
 ### Sobre Mim:
 - Desenvolvedor Full Stack apaixonado por tecnologia e inovação.
 - DevSecOps experiente no mercado
