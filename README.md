@@ -45,7 +45,7 @@
 ###
 <br clear="both">
 
-![Snake animation](https://github.com/GabrielR4SH/GabrielR4SH/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GabrielR4SH/GabrielR4SH/raw/output/github-contribution-grid-snake.gif)
 
 
 
