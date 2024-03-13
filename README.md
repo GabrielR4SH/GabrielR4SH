@@ -45,7 +45,7 @@
 ###
 <br clear="both">
 <div aling="center">
-  <img src="https://raw.githubusercontent.com/GabrielR4SH/GabrielR4SH/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/GabrielR4SH/.github/workflows/snake.svg" alt="Snake animation" />
 </div>
 
 ### Sobre Mim:
