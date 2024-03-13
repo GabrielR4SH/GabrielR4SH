@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
+***
+<br>
 ### Sobre Mim:
 - Desenvolvedor Full Stack apaixonado por tecnologia e inovação.
 - DevSecOps experiente no mercado
