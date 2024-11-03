@@ -46,15 +46,10 @@
 
 ### Sobre Mim:
 - Desenvolvedor Full Stack apaixonado por tecnologia e inovação.
+- Laravel & React
 - DevSecOps experiente no mercado
-- Conhecimento avançado em Segurança da Informação
-- Hacker White hat 👁️‍🗨️
-- Experiência no mercado de Desenvolvimento
+- Conhecimento avançado em Cibersecurity
 - Constatemente me aprimorando em Tecnologias Novas
-- Especialista em Laravel & ReactJs
-- Domino o JavaScript
-- Domino o Docker
-- Pentester & RedTeam 
-- Usuário avançado de Linux
+- Usuário de Linux
 - Futuro Cientista de Dados
 
